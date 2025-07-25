@@ -10,7 +10,7 @@ A modern, responsive website for self-hosted video meetings and business collabo
 
 ## Setup
 1. Clone repo:
-2. https://github.com/Abhaycoded/jupiter-meet.git
+2. https://github.com/Abhaycoded/meet-platform.git
 3. Open `index.html` in your browser.
 ## License
 MIT License
