@@ -8,6 +8,8 @@ A modern, responsive website for self-hosted video meetings and business collabo
 - Clean, semantic code
 - Organized assets folder
 
+- live link: https://jupiter-meet.netlify.app/
+
 ## Setup
 1. Clone repo:
 2. https://github.com/Abhaycoded/meet-platform.git
